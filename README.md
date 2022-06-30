@@ -1,3 +1,11 @@
+Deploy App 💻💻💻
+
+https://journalappreact.herokuapp.com/auth/login
+
+Tiene cargado un usuario base. Se puede crear una cuenta y se aloja en firestore. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
